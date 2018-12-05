@@ -1,0 +1,7 @@
+[package]
+name = "corner-detection"
+version = "0.1.0"
+authors = ["Mitchell Nuckols <mitchnuckols@gmail.com>"]
+
+[dependencies]
+image = "*"
